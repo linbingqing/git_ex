@@ -11,4 +11,6 @@ for(i in 1:10) {
   d = b
   
   dd = d
+  
+  ee = dd
 }
