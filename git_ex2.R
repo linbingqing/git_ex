@@ -9,8 +9,12 @@ for(i in 1:10) {
   b  = a* i
   
   d = b
+
   
   dd = d
   
   ee = dd
+
+  e = d
+ master
 }
