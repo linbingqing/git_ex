@@ -7,4 +7,6 @@ for(i in 1:10) {
   cat('add one number each time')
   
   b  = a* i
+  
+  d = b
 }
