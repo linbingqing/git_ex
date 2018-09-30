@@ -9,4 +9,5 @@ for(i in 1:10) {
   b  = a* i
   
   d = b
+  e = d
 }
